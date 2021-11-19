@@ -1,3 +1,5 @@
+# Dummy line
+
 #varnames
 import random
 smallest = 0
